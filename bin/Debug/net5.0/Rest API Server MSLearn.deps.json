@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rest API Server MSLearn/1.0.0": {
+        "runtime": {
+          "Rest API Server MSLearn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rest API Server MSLearn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

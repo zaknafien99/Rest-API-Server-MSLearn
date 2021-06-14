@@ -1,0 +1,16 @@
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.csprojAssemblyReference.cache
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.AssemblyInfoInputs.cache
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.AssemblyInfo.cs
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.csproj.CoreCompileInputs.cache
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.exe
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.deps.json
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.runtimeconfig.json
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.runtimeconfig.dev.json
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.dll
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\ref\Rest API Server MSLearn.dll
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\bin\Debug\net5.0\Rest API Server MSLearn.pdb
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.dll
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\ref\Rest API Server MSLearn.dll
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.pdb
+C:\Users\zakna\OneDrive\Documents\Rest API Server MSLearn\obj\Debug\net5.0\Rest API Server MSLearn.genruntimeconfig.cache
